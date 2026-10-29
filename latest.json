@@ -1,8 +1,8 @@
 {
- "version": "2.5",
- "file": "releases/DIDIMOS-2.5.zip",
- "size": 15215842,
+ "version": "2.6",
+ "file": "releases/DIDIMOS-2.6.zip",
+ "size": 15228370,
  "date": "2026-10-29",
- "notes": "• עדכון גרסה מתוך המשחק: הגדרות > בדוק עדכונים\n• המשחק בודק לבד בכל פתיחה אם יש גרסה חדשה\n• ההתקדמות שלך נשמרת",
- "notes_en": "• Update the game from inside the game: Settings > Check for updates\n• The game checks for a new version when it starts\n• Your progress is kept"
+ "notes": "• בוס עולם 4 מפחיד יותר: רחפן-גנגר הסיוט\n• הלייזר פוגע גם ביצורים קטנים\n• חבר צ'יפמון עוזר 10 שניות, ועוד 10 על כל תפיסה\n• שלבים ארוכים יותר, פחות זמן, לבנים מתפוררות ושערי לייזר\n• יש סודות בשלבים... תגלו לבד",
+ "notes_en": "• World 4 boss is scarier: the Nightmare Gengar-Drone\n• Laser eyes now hit small creatures\n• A Chipmon partner helps for 10 seconds, +10 per catch\n• Longer levels, less time, crumbling bricks and laser gates\n• There are secrets in the levels... find them yourself"
 }
